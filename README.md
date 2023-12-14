@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 🧠 My interests include machine learning and predictive analytics 
 - 🎓 I'm pursuing a master's degree in data science at NJIT
