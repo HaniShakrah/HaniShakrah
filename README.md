@@ -2,7 +2,7 @@
 
 - 🧠 My interests include machine learning and predictive analytics 
 - 🎓 I'm pursuing a master's degree in data science at NJIT
-- 📫 Reach me at hani.shakrah@gmail.com
+- 📫 Reach me at hani.shakrah@gmail.com or via [LinkedIn] (https://www.linkedin.com/in/hani-shakrah/)
 
 
 <!--
