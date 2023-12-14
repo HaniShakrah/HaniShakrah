@@ -3,7 +3,7 @@
 🎨My interests include machine learning and predictive analytics 
 🎓I'm pursuing a degree in data science 
 📫Reach me at hani.shakrah@gmail.com
-[LinkedIn]([https://pages.github.com/)](https://www.linkedin.com/in/hani-shakrah/)
+[LinkedIn](https://www.linkedin.com/in/hani-shakrah/)
 
 
 <!--
