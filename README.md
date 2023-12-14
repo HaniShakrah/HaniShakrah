@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🎨My interests include machine learning and predictive analytics 
-🎓I'm pursuing a master's degree in data science at NJIT
-📫Reach me at hani.shakrah@gmail.com
+- 🎨My interests include machine learning and predictive analytics 
+- 🎓I'm pursuing a master's degree in data science at NJIT
+- 📫Reach me at hani.shakrah@gmail.com
 
 
 <!--
