@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🎨My interests include machine learning and predictive analytics 
+🎓I'm pursuing a degree in data science 
+📫Reach me at hani.shakrah@gmail.com
+[LinkedIn]([https://pages.github.com/)](https://www.linkedin.com/in/hani-shakrah/)
+
+
 <!--
 **HaniShakrah/HaniShakrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
