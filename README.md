@@ -1,6 +1,6 @@
-- 🧠 My interests include machine learning and NLP
-- 🎓 I'm pursuing a master's degree in data science at NJIT
-- 📫 Reach me at hani.shakrah@gmail.com or via [LinkedIn](https://www.linkedin.com/in/hani-shakrah/)
+🧠 My interests include machine learning and NLP
+🎓 I'm pursuing a master's degree in data science at NJIT
+📫 Reach me at hani.shakrah@gmail.com or via [LinkedIn](https://www.linkedin.com/in/hani-shakrah/)
 
 <!--
 **HaniShakrah/HaniShakrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
